@@ -1,0 +1,39 @@
+.item {
+  width: 100%;
+  background: #dbe2ef;
+  margin-bottom: 30px;
+  border-radius: 5px;
+}
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.left button {
+  cursor: pointer;
+  margin: 0 10px;
+}
+.right button {
+  background: #ef5da8;
+  border-radius: 10px;
+  border: none;
+  margin-right: 10px;
+  outline: none;
+  cursor: pointer;
+}
+.btn-check {
+}
+.done {
+  background: #3f72af;
+}
+.opacity {
+  opacity: 0.4;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

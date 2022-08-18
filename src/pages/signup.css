@@ -1,0 +1,22 @@
+.signup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+h1 {
+  color: #112d4e;
+}
+.container {
+  text-align: center;
+  background: white;
+  margin-top: 30px;
+  padding: 30px;
+}
+.container .input {
+  margin-bottom: 20px;
+}
+.container .input input {
+  width: 60%;
+  border-radius: 5px;
+}
